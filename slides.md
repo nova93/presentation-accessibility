@@ -63,7 +63,7 @@ src: ./slides/8-benefits.md
 ---
 layout: image-left
 image: https://cdn.discordapp.com/attachments/1070773022186799148/1143904961982369846/sykst_accessible_design_dee20add-2f10-4626-9c80-51f00fb0e210.png
-src: ./slides/9-case-studies.md
+src: ./slides/9-case-study.md
 ---
 
 
